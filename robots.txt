@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aexikeayo.moyersphd.com/sitemap.xml
